@@ -11,7 +11,7 @@ def game():
         label.config(text="Win, retry :)")
 
 root = tk.Tk()
-root.title('Russian idiot game')
+root.title('K7 | Russian idiot game')
 
 playBtn = tk.Button(root, text="play", command=game)
 
